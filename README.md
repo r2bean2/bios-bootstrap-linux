@@ -4,3 +4,6 @@ download the busybox 1.38, replace the .config (hold contol+h to see invisable f
 
 
 # ME NO NO HOW TO SPEEL
+
+when was the last time i touched grass
+## IDONT KNOW
